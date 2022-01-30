@@ -1,0 +1,29 @@
+<svg id="Xin" xmlns="http://www.w3.org/2000/svg" width="41.16" height="68" viewBox="0 0 41.16 68">
+  <defs>
+    <style>
+
+      #Xin:hover .cls-2 { fill: #0E1242; }
+
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #fdb715;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fdb715;
+        transition: all ease 1s;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Necklace" class="cls-1" d="M18.66,53.05s-10.9-1.75-17.53-27C-1.61,15.64,4.87,4.88,15,3.39c.44-.07.9-.09,1.36-.16,9.94-1.55,24.4,2.59,24.34,17.19,0,12.4-11.92,32.36-18.51,32.63"/>
+  <path id="Stone" class="cls-2" d="M25.37,59,19.9,67.11l-5.48-8L19.9,53Z"/>
+  <path id="Circle" class="cls-3" d="M21.78,53a1.89,1.89,0,1,1-1.88-1.89A1.88,1.88,0,0,1,21.78,53ZM20,.5a2.43,2.43,0,1,0,2.42,2.43A2.43,2.43,0,0,0,20,.5Z"/>
+</svg>

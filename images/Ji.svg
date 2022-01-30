@@ -1,0 +1,53 @@
+<svg id="Ji" xmlns="http://www.w3.org/2000/svg" width="65.09" height="55.04" viewBox="0 0 65.09 55.04">
+  <defs>
+    <style>
+       #Ji:hover .cls-2 { opacity: 0; }
+    
+      .cls-1 {
+        fill: none;
+        transition: all ease 2s;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fdb715;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fdb715;
+      }
+    </style>
+  </defs>
+  <g id="leaves">
+    <ellipse class="cls-1" cx="31.93" cy="6.39" rx="2.86" ry="5.89"/>
+    <ellipse class="cls-1" cx="26.01" cy="16.25" rx="2.86" ry="5.89" transform="translate(-1.65 29.51) rotate(-57.59)"/>
+    <line class="cls-1" x1="26.01" y1="16.25" x2="30.99" y2="19.41"/>
+    <line class="cls-1" x1="31.6" y1="5.09" x2="31.16" y2="31.09"/>
+    <ellipse class="cls-1" cx="36.62" cy="16.25" rx="5.89" ry="2.86" transform="translate(-2.32 25.66) rotate(-37.52)"/>
+    <line class="cls-1" x1="37.26" y1="16.66" x2="31.86" y2="19"/>
+  </g>
+  <g id="Branch">
+    <path class="cls-1" d="M11.58,41.65l4.09-4.77a55.9,55.9,0,0,0,9-1.19c2.89-.85,6.47-6.64,6.47-6.64v7.66l-3.75,3.75-4.76,4.76"/>
+    <line class="cls-1" x1="33.08" y1="47.56" x2="27.41" y2="41.27"/>
+    <polyline class="cls-1" points="45.45 45.05 35.36 36.97 35.36 31.78"/>
+    <polyline class="cls-1" points="31.38 28.47 40.95 35.63 48.64 35.63 52.13 39.4"/>
+  </g>
+  <g id="Ground">
+    <circle class="cls-2" cx="2.52" cy="38.93" r="0.98"/>
+    <circle class="cls-2" cx="9.2" cy="37.86" r="1.53"/>
+    <circle class="cls-2" cx="7.37" cy="45.99" r="1.57"/>
+    <circle class="cls-2" cx="16.99" cy="45.22" r="0.81"/>
+    <circle class="cls-2" cx="13.37" cy="52.76" r="1.79"/>
+    <circle class="cls-2" cx="27.42" cy="51.35" r="1.4"/>
+    <circle class="cls-2" cx="39.63" cy="52.29" r="1.32"/>
+    <circle class="cls-2" cx="36.62" cy="44.73" r="1.26"/>
+    <circle class="cls-2" cx="47.5" cy="41.44" r="2.04"/>
+    <circle class="cls-2" cx="52.13" cy="34.59" r="1.74"/>
+    <circle class="cls-2" cx="60.84" cy="35.63" r="2.79"/>
+    <circle class="cls-2" cx="58.09" cy="45.99" r="1.57"/>
+    <circle class="cls-2" cx="60.64" cy="53.26" r="0.97"/>
+    <circle class="cls-2" cx="51.56" cy="51.12" r="1.17"/>
+    <circle class="cls-2" cx="3.8" cy="52.63" r="1.28"/>
+    <path class="cls-1" d="M0,32.63s27.13,2.14,31.42-7.14c0,0,8.92,7.71,33.55,3.68"/>
+  </g>
+</svg>

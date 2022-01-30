@@ -1,0 +1,40 @@
+ body { font-size:16px; }
+
+  .hidden { display: none; }
+
+  .main-heading {
+      color: Gray;
+      cursor: pointer;
+      text-align: center;
+      font-family: 'Lobster', cursive;
+      font-size: 2em;
+  }
+
+  #svg-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: auto;
+      grid-gap: 20px;
+  }
+
+  .container { display: flex; }
+  .container img {width: 100%; }
+  .container svg {width: 100%; }
+
+ .icon_big {
+     display: inline-block;
+     position: relative;
+     width: 15%;
+     padding-bottom: 10%;
+     vertical-align: top;
+     overflow: hidden;
+}
+
+.icon_small {
+    display: inline-block;
+    position: relative;
+    width: 18%;
+    padding-bottom: 10%;
+    vertical-align: top;
+    overflow: hidden;
+}

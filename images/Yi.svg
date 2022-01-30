@@ -1,0 +1,44 @@
+<svg id="Yi" xmlns="http://www.w3.org/2000/svg" width="81.6" height="87.37" viewBox="0 0 81.6 87.37">
+  <defs>
+    <style>
+      #Yi:hover .cls-3 { fill: #006838; }
+
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fbb040;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fbb040;
+        transition: all ease 1.5s;
+      }
+    </style>
+  </defs>
+  <g id="branch">
+    <line class="cls-1" x1="41.93" y1="17.23" x2="41.37" y2="87.36"/>
+    <line class="cls-1" x1="14.07" y1="57.21" x2="41.65" y2="77"/>
+    <line class="cls-2" x1="40.94" y1="77.72" x2="67.43" y2="56.49"/>
+    <line class="cls-1" x1="30.97" y1="26.21" x2="41.65" y2="33.87"/>
+    <line class="cls-2" x1="41.65" y1="33.91" x2="52.27" y2="26.17"/>
+    <line class="cls-1" x1="25.53" y1="54.13" x2="25.3" y2="65.27"/>
+    <line class="cls-2" x1="57.33" y1="54.13" x2="57.11" y2="65.27"/>
+  </g>
+  <g id="left">
+    <ellipse class="cls-3" cx="7.31" cy="51.33" rx="3.21" ry="9.28" transform="translate(-36.23 23.19) rotate(-49.01)"/>
+    <ellipse class="cls-3" cx="25.3" cy="45.82" rx="3.21" ry="9.28"/>
+  </g>
+  <g id="right">
+    <ellipse class="cls-3" cx="57.22" cy="47.07" rx="3.21" ry="9.28"/>
+    <ellipse class="cls-3" cx="73.87" cy="51.33" rx="9.28" ry="3.21" transform="translate(-16.06 53.32) rotate(-36.06)"/>
+  </g>
+  <g id="top">
+    <ellipse class="cls-3" cx="41.96" cy="9.28" rx="3.21" ry="9.28"/>
+    <ellipse class="cls-3" cx="26.13" cy="21.13" rx="3.21" ry="9.28" transform="translate(-7.29 24.66) rotate(-45)"/>
+    <ellipse class="cls-3" cx="59.2" cy="21.13" rx="9.28" ry="3.21" transform="translate(-0.21 41.66) rotate(-38.7)"/>
+  </g>
+</svg>
